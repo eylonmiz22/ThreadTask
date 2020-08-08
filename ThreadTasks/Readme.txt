@@ -1,1 +1,1 @@
-Some Java thread programs: sums up numbers, calculates factorial, calculates multiplication board (Using Fork/Join, Executor...).
+Some short thread exercises written in Java using executor service, fork/join pools, synchronized, locks and condition variables.
